@@ -44,9 +44,9 @@ a{
     /* background-color: #f397b9; */
     text-align: center;
     color: white;
-    height: 71px;
+    height: 68px;
     background-size: cover;
-    padding: 3% 0%;
+    padding: 0% 0%;
 }
 
 .content {
@@ -242,7 +242,7 @@ a{
     }
 
     .timing {
-        font-size: 15px;
+        font-size: 14px;
     }
     .outer {
         width: 0 !important;
