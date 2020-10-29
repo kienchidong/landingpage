@@ -10,7 +10,7 @@ a{
     src: url("../font/Roboto-Bold.ttf");
 }
 .banner {
-    background-image: url("../images/header-bgbg.png");
+    background-image: url("../images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -18,25 +18,20 @@ a{
     width: 100%;
 }
 
-.banner-text .btn-store {
+.banner .banner-text .btn-store {
     width: 50%;
     float: right;
 }
 
-.banner-text .btn-store img {
+.banner .banner-text .btn-store img {
     width: 100%;
 }
 
-.banner-text {
-    color: white;
-    font-weight: bold;
-    position: absolute;
-    bottom: -90px;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-    padding: 20px;
+.banner .banner-text {
+    width: 100%;
+    bottom: 0;
     text-align: center;
+    position: absolute;
 }
 
 .timing {
@@ -188,33 +183,10 @@ a{
     padding-top: 50%;
 }
 
-@-webkit-keyframes glowing {
-    0% { background-color: #f397b9; color: white !important;}
-    50% { background-color: white; color: #f397b9}
-    100% { background-color: #f397b9; color: white !important;}
-}
-
-@-moz-keyframes glowing {
-    0% { background-color: #f397b9; color: white !important;}
-    50% { background-color: white;color: #f397b9 }
-    100% { background-color: #f397b9; color: white !important;}
-}
-
-@-o-keyframes glowing {
-    0% { background-color: #f397b9; color: white !important;}
-    50% { background-color: white; color: #f397b9}
-    100% { background-color: #f397b9; color: white !important;}
-}
-
-@keyframes glowing {
-    0% { background-color: #f397b9; color: white !important;}
-    50% { background-color: white; color: #f397b9}
-    100% { background-color: #f397b9; color: white !important;}
-}
 
 @media only screen and (min-width: 320px) {
     .banner {
-        height: 230px;
+        height: 209px;
     }
 
     .banner .header-up {
@@ -253,7 +225,6 @@ a{
     .rotate-right {
         margin: 50% 10%;
     }
-
     .carousel{
         width: 60%;
     }

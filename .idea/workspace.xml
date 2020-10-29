@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea814801-e009-4835-b6df-8782e969a7d6" name="Default Changelist" comment="" />
+    <list default="true" id="ea814801-e009-4835-b6df-8782e969a7d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jOfsHWYQCvCiM9DlXbA5XF7MWo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,17 +36,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/footer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kienc\Desktop\G&amp;G\html\images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kienc\Desktop\G&amp;G\html\images\footer" />
-      <recent name="C:\Users\kienc\Desktop\G&amp;G\html\images\content" />
-      <recent name="C:\Users\kienc\Desktop\G&amp;G\html\images\timing" />
       <recent name="C:\Users\kienc\Desktop\G&amp;G\html\images" />
+      <recent name="C:\Users\kienc\Desktop\G&amp;G\html\font" />
+      <recent name="C:\Users\kienc\Desktop\G&amp;G\html\images\content" />
+      <recent name="C:\Users\kienc\Desktop\G&amp;G\html\images\slider" />
+      <recent name="C:\Users\kienc\Desktop\G&amp;G\html\images\footer" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -52,6 +61,10 @@
       <option name="presentableId" value="Default" />
       <updated>1603680263674</updated>
       <workItem from="1603680265908" duration="26299000" />
+      <workItem from="1603763428396" duration="27658000" />
+      <workItem from="1603849047478" duration="1803000" />
+      <workItem from="1603936151659" duration="595000" />
+      <workItem from="1603939629040" duration="3125000" />
     </task>
     <servers />
   </component>
@@ -59,9 +72,21 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603706757400">
+    <state x="680" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603793473926">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1603706757400" />
+    <state x="680" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1603793473926" />
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603942725226">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1603942725226" />
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1603849060496">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1603849060496" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1603786664096">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1603786664096" />
   </component>
 </project>
